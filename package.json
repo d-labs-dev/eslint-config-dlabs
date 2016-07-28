@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/d-labs-dev/eslint-config-dlabs#readme",
   "peerDependencies": {
+    "eslint": "3.x", 
     "eslint-config-standard": "5.x"
   }
 }
