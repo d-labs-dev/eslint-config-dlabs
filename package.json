@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-dlabs",
+  "version": "1.0.0",
+  "description": "D-LABS' ESLint config, following our styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-labs-dev/eslint-config-dlabs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Leo Schweizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-labs-dev/eslint-config-dlabs/issues"
+  },
+  "homepage": "https://github.com/d-labs-dev/eslint-config-dlabs#readme",
+  "peerDependencies": {
+    "eslint-config-standard": "5.x"
+  }
+}
