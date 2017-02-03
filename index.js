@@ -11,7 +11,8 @@ module.exports = {
 		'max-len': [2, 120, 2],
 		'indent': [2, 'tab'],
 		'padded-blocks': [0],
-		'space-before-function-paren': [2, 'never']
+		'space-before-function-paren': [2, 'never'],
+		'linebreak-style', [2, 'unix']
 	}
 
 };
