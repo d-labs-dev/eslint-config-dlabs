@@ -12,7 +12,7 @@ module.exports = {
 		'indent': [2, 'tab'],
 		'padded-blocks': [0],
 		'space-before-function-paren': [2, 'never'],
-		'linebreak-style', [2, 'unix']
+		'linebreak-style': [2, 'unix']
 	}
 
 };
