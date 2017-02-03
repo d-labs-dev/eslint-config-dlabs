@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dlabs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "D-LABS' ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/d-labs-dev/eslint-config-dlabs#readme",
   "peerDependencies": {
-    "eslint": "3.x", 
+    "eslint": "3.x",
     "eslint-config-standard": "5.x"
   }
 }
